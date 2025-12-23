@@ -28,11 +28,11 @@ Synaptics 백도어로 알려진 **Xred Backdoor**는 2019년경부터 활동이
 
 1. **Restore without creating .bak file**  
    - 백업 파일을 생성하지 않고, 복구된 파일로 원본 파일을 덮어씁니다.  
-   - 원본 XLSM 파일은 삭제되고, 매크로 제거 후 생성된 XLSX만 남습니다.
+   - 감염된 XLSM 파일은 삭제되고, 매크로 제거 후 생성된 XLSX만 남습니다.
 
 2. **Restore with creating .bak file**  
    - 백업 파일(`.bak`)을 생성한 후, 복구된 파일로 덮어씁니다.  
-   - 원본 파일은 `.bak`로 보관되고, 매크로 제거된 XLSX가 새로 생성됩니다.
+   - 감염된 파일은 `.bak`로 보관되고, 매크로 제거된 XLSX가 새로 생성됩니다.
 
 3. **Exit**  
    - 프로그램을 종료합니다.
