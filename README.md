@@ -53,6 +53,15 @@ Synaptics 백도어로 알려진 **Xred Backdoor**는 2019년경부터 활동이
 3. 옵션에 따라 원본 `.xlsm` 삭제 또는 `.bak` 백업 생성
 
 ---
+## 빌드 방법
+
+Python 스크립트를 단일 실행 파일로 빌드하려면 **PyInstaller**를 사용합니다:
+
+```bash
+pip install pyinstaller
+pyinstaller --onefile --name SynapticsRecovery Synaptics_Recovery.py
+```
+---
 
 ## 주의사항
 - XLSX 파일은 일부 데이터가 손실될 수 있음  
