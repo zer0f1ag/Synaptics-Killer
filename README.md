@@ -1,5 +1,5 @@
 # Synaptics Killer
-
+![Synaptics Killer Overview](Logo.png)
 
          
 ## 개요
