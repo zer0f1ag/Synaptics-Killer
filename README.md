@@ -59,6 +59,9 @@ Python 스크립트를 단일 실행 파일로 빌드하려면 **PyInstaller**�
 
 ```bash
 pip install pyinstaller
+```
+
+```bash
 pyinstaller --onefile --name SynapticsRecovery Synaptics_Recovery.py
 ```
 ---
