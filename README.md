@@ -55,11 +55,11 @@ Synaptics 백도어로 알려진 **Xred Backdoor**는 2019년경부터 활동이
 ---
 
 ## 주의사항
-- 프로그램 실행 시 관리자 권한이 필요할 수 있음  
-- XLSX 파일은 매크로로 인해 일부 데이터가 손실될 수 있음  
+- XLSX 파일은 일부 데이터가 손실될 수 있음  
 - 복구 과정에서 원본 파일이 삭제되거나 덮어써질 수 있으니, 옵션 선택 시 주의 바랍니다
 
 ---
 
 ## License
-MIT License
+
+This project is licensed under the **GNU General Public License v3.0 (GPL-3.0)** - see the [LICENSE](LICENSE) file for details.
