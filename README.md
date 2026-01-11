@@ -3,7 +3,7 @@
 
          
 ## 개요
-**Synaptics Killer**는 시냅틱스(Synaptics) 백도어 바이러스에 감염된 파일(EXE, XLSX)을 복구하는 도구입니다.  
+**Synaptics Killer** is a tool to recover files (EXE, XLSX) infected with the Synaptics backdoor virus.  
 
 ---
 
