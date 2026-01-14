@@ -8,7 +8,7 @@
 ---
 
 ### 시냅틱스 바이러스란?
-Synaptics 백도어로 알려진 **Xred Backdoor**는 2019년경부터 활동이 관측된 악성코드로, 웜(Worm) 형태로 전파됩니다.  
+Synaptics 백도어로 알려진 **Xred Backdoor**는 2019년경부터 활동이 관측된 악성코드로, 바이러스(Virus), 웜(Worm) 형태로 전파됩니다.  
 주로 Synaptics사의 노트북용 터치패드 드라이버 프로그램을 사칭하여 유포되며, 합법적인 소프트웨어 설치 프로그램처럼 위장해 사용자를 속이는 특징이 있습니다.  
 
 ---
@@ -98,7 +98,7 @@ pyinstaller --onefile --name SynapticsRecovery Synaptics_Recovery.py
 ---
 
 ## 주의사항
-- XLSX 파일은 일부 데이터가 손실될 수 있음  
+- XLSX 파일은 일부 데이터가 손실될 수 있습니다  
 - 복구 과정에서 원본 파일이 삭제되거나 덮어써질 수 있으니, 옵션 선택 시 주의 바랍니다
 
 ---
